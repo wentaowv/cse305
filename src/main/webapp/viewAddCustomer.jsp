@@ -2,7 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ include file="header.jsp" %>
 
-<!--
+<!------
 This is the Add Customer page
 This page displays fields to add a Customer
 The details are sent to the AddCustomerController class in resources package
